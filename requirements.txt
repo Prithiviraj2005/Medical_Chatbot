@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+tqdm
+PyMuPDF        # for PDF reading
+nltk           # optional, for text cleaning
+
